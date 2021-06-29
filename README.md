@@ -1,5 +1,5 @@
-Hola, mi nombre es Jhon! :earth_americas:
+Hola, mi nombre es Jhon!
 
-- Me gusta aprender nuevas tecnologias todos los dias :computer:
-- Actualmente estoy trabajando en proyectos web, aplicaciones móviles, servidores y seguridad :computer:
-- Estoy abierto a nuevas oportunidades de colaboración :octocat:
+- :globe_with_meridians: Me gusta aprender nuevas tecnologias todos los dias.
+- :computer: Actualmente estoy trabajando en proyectos web, aplicaciones móviles, servidores y seguridad.
+- :octocat: Estoy abierto a nuevas oportunidades de colaboración.
